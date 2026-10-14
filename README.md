@@ -1,4 +1,4 @@
-# EXP-1
+ # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -40,56 +40,49 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
+CIRCUIT DIAGRAM:
+
 
 a.   KVL:
-<img width="853" height="407" alt="Screenshot 2026-10-07 102142" src="https://github.com/user-attachments/assets/8d13f9cf-e49e-4222-818e-e9dd470dfef9" />
 
-
-
-
+<img width="925" height="687" alt="image" src="https://github.com/user-attachments/assets/b6fd30e3-0cd7-490e-98cc-0af12cffe711" />
 
  
 
 
 b.  KCL:
- <img width="825" height="591" alt="WhatsApp Image 2026-10-10 at 2 01 24 PM" src="https://github.com/user-attachments/assets/22b6fcef-b552-49bf-bfcd-93ca118b31c2" />
 
+<img width="925" height="687" alt="image" src="https://github.com/user-attachments/assets/495f1345-58dd-438d-a205-c2947e10d5d7" />
+
+ 
 
 Calculation:
 
 a.   KVL:
 
-<img width="1183" height="1600" alt="WhatsApp Image 2026-10-07 at 7 06 07 PM" src="https://github.com/user-attachments/assets/975570cb-b752-4708-acd3-52131bf6a925" />
-
- <img width="1190" height="1600" alt="WhatsApp Image 2026-10-07 at 7 07 06 PM (1)" src="https://github.com/user-attachments/assets/7aef71cc-d5dd-47b2-b486-d83b2af75c52" />
-
+<img width="2784" height="3948" alt="Kvl1" src="https://github.com/user-attachments/assets/a4726436-130d-4f46-b44a-74899fee43af" />
+<img width="2072" height="1554" alt="Kvl2" src="https://github.com/user-attachments/assets/001fa73f-17f2-4422-97f1-9e359d723e4f" />
 
 
 b.  KCL:
 
-<img width="1129" height="1599" alt="WhatsApp Image 2026-10-10 at 2 23 59 PM" src="https://github.com/user-attachments/assets/9f622af7-22bf-4d7e-a30d-13dfd946eb6a" />
+<img width="2202" height="1651" alt="Kcl1" src="https://github.com/user-attachments/assets/697e2dc6-9ae1-4bae-b4e7-ee15936338df" />
+<img width="1849" height="1040" alt="Kcl2" src="https://github.com/user-attachments/assets/f2620880-5a4d-4502-84a8-2a975f494cb2" />
 
 
 
 Tabulation:
 
 a.   KVL:
- 
-<img width="445" height="226" alt="Screenshot 2026-10-10 142551" src="https://github.com/user-attachments/assets/6e0b909b-b901-4d71-a6d3-e46a5773572b" />
+
+<img width="2348" height="1312" alt="Kvlob" src="https://github.com/user-attachments/assets/8d52ad18-5f35-4c92-b541-5fe96a25fb42" />
 
 
 b.  KCL:
 
-<img width="443" height="224" alt="Screenshot 2026-10-10 142604" src="https://github.com/user-attachments/assets/7090d9f8-ffbd-4503-9f18-6d9d011a11a5" />
+<img width="2348" height="1312" alt="Kclob" src="https://github.com/user-attachments/assets/a8f85369-05e1-4e13-aad9-2d9c427d7ac3" />
 
 
-OUTPUT:
-
-a. KVL:
-<img width="685" height="403" alt="Screenshot 2026-10-07 102044" src="https://github.com/user-attachments/assets/f18bb7b0-d6e2-43cb-88c4-353c0e6626d6" />
-
-b. KCL:
-<img width="815" height="578" alt="WhatsApp Image 2026-10-10 at 2 01 24 PM (1)" src="https://github.com/user-attachments/assets/d1292820-d77a-42dc-a861-cd630be17a95" />
 
 RESULT:
 
